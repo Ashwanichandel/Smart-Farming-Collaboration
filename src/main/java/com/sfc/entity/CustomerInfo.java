@@ -19,6 +19,7 @@ public class CustomerInfo {
     private String customerName;
     private String customerPhNo;
     private String customerAddress;
+    private String getCustomerEmailAddress;
 
     // Constructors
     public CustomerInfo() {
